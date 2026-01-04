@@ -1,0 +1,7 @@
+{
+  "name": "ChapterSlicer AI",
+  "description": "An intelligent tool that uses AI to detect chapter markers in long audio files and automatically split them into separate downloadable clips.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
